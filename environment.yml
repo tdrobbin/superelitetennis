@@ -1,0 +1,37 @@
+name: tennis
+
+channels:
+  - anaconda
+  - conda-forge
+  - scikit-learn
+  - plotly
+  - microsoft
+  - pyviz
+
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - numpy
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - scikit-learn
+  - statsmodels
+  - sqlalchemy
+  - alembic
+  - loguru
+  - ipdb
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - plotly
+  - hvplot
+  - fuzzywuzzy
+  - nodejs
+  - scipy
+  - pyarrow
+  - gitpython
+  - pygithub
+  - pyyaml
+  - imapclient
+  - polars
